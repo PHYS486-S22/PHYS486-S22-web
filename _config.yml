@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PHYS 486 - S22
-tagline: PHYS 486 - Spring 2022 - Course Website
+tagline: PHYS 486 - S22 
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Covey
 baseurl: '/PHYS486-S22-web' # the subpath of your site, e.g. /blog
