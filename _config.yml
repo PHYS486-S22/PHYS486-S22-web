@@ -16,7 +16,7 @@
 title: PHYS 486 - Spring 2022
 tagline: PHYS 486 - Spring 2022 - Course Website
 description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+author: Kevin Covey
 baseurl: '/PHYS486-S22-web' # the subpath of your site, e.g. /blog
 url: 'https://PHYS486-S22.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Kevin Covey:
+    - 'https://kevincovey.github.io/'
+  PHYS486-S22 on GitHub:
+    - 'https://PHYS486-S22.github.com/PHYS486-S22'
 footer_content:
 
 # Collections for website data
